@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="CroLink" type="PERL6_CRO_RUN_CONFIGURATION" factoryName="Cro Service" editBeforeRun="true" singleton="false">
+    <SCRIPT_PATH>$PROJECT_DIR$/bin/evra</SCRIPT_PATH>
+    <SCRIPT_ARGS>port</SCRIPT_ARGS>
+    <WORKING_DIRECTORY>$PROJECT_DIR$</WORKING_DIRECTORY>
+    <ENV_VARS />
+    <PASS_ENVIRONMENT>false</PASS_ENVIRONMENT>
+    <PERL6_PARAMS />
+    <DEBUG_PORT>9999</DEBUG_PORT>
+    <START_SUSPENDED>false</START_SUSPENDED>
+    <LOG_TIMELINE_EVENTS>await,file,process,socket,start</LOG_TIMELINE_EVENTS>
+    <CRO_DEV_MODE>true</CRO_DEV_MODE>
+    <method v="2">
+      <option name="LaunchBrowser.Before.Run" browser="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" url="CroLink" />
+    </method>
+  </configuration>
+</component>

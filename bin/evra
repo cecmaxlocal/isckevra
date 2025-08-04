@@ -1,0 +1,24 @@
+#!/usr/bin/env raku
+use v6.d;
+
+
+# Announcements page
+#
+# A date-stamped list of notes relevant to the Raku documentation site.
+# This Block name is not known, could be a typo or missing plugin
+# Note
+# Contents are
+#
+# An announcements page is now available. The most recent announcement will
+# pop up when the website is loaded, but it will not appear again.
+#
+# Announcements can contain all the RakuDoc elements, including:
+#
+#    lists as here
+#
+#    format / markup codes such inline code, bolded text, Italics, bolded italics.
+#
+# The only constraint is how much space is used in the popup.
+sub market($!) is export {
+    say put "Hello World!" if $!;
+}
