@@ -2,7 +2,7 @@ Of course. Here is a comprehensive `README.md` file template based on the inform
 
 This template assumes `isckevra` is a project for creating a marketplace of plugins/themes for the IntelliJ IDEA IDE.
 
-<img src="./image/logon.jpg">
+<img src="./matrix/cec/image/logon.jpg">
 ---
 
 # isckevra
